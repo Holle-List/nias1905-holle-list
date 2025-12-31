@@ -30,6 +30,10 @@ authors:
     family-names: Bakti
     email: anggaspringfield@gmail.com
     affiliation: Udayana University
+identifiers:
+  - type: doi
+    value: 10.25446/oxford.30978940
+    description: The DOI for all versions
 repository-code: 'https://github.com/Holle-List/nias1905-holle-list'
 abstract: >-
   This is a digitised wordlist for Nias in the Holle List
