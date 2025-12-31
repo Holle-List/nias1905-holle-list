@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised wordlist for Nias (NBG 1905) derived from
+  Stokhof and Almanar's "Holle lists: Vocabularies in
+  languages of Indonesia, Vol. 10/3: Islands off the west
+  coast of Sumatra" from 1987
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file and the original legacy sources (Stokhof
+  1980; Stokhof and Almanar 1987)
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Ni Kadek Maritya
+    family-names: Suari
+    affiliation: Udayana University
+    email: marityasuarii@gmail.com
+  - given-names: Diorani Risky
+    family-names: Dinahari
+    affiliation: Udayana University
+    email: diorani.2201@gmail.com
+  - given-names: Three Anggano Putra
+    family-names: Bakti
+    email: anggaspringfield@gmail.com
+    affiliation: Udayana University
+repository-code: 'https://github.com/Holle-List/nias1905-holle-list'
+abstract: >-
+  This is a digitised wordlist for Nias in the Holle List
+  (NBG 1905) (Stokhof 1980) for the languages of the Barrier
+  Islands, Sumatra, Indonesia (Stokhof and Almanar 1987).
+  The original list only contains the regional words, and we
+  join these words computationally with the Master Holle
+  List (Stokhof 1980;
+  https://engganolang.github.io/digitised-holle-list/),
+  containing the English and Indonesian translations.
+keywords:
+  - wordlist
+  - Holle List
+  - Nias
+  - Barrier Islands Languages
+  - Indonesian Languages
+  - Sumatra
+  - Digital Humanities
+  - Legacy Lexical Resources
+  - Linguistics
+  - Lexicography
+license: CC-BY-SA-4.0
+version: 1.0.0
+date-released: '2025-12-31'
